@@ -43,6 +43,10 @@ Our second interactive plot demonstrates the correlation between a motion sequen
 ### Analysis Toolkit: Kinematic Comparison Toolkit
 The toolkit enables QualityMinds to compare and visualize inliers and outliers for specific actions, such as walking, based on kinematic key characteristics, like joint velocity and acceleration. Understanding these nuances offers valuable insights for comprehending why observations are detected as outliers.
 
+### Blogpost and Report
+A detailed report and a short BlogPost was delivered to QM as well. 
+
+
 ## Conclusion and Outlook
 
 In conclusion, our collaboration with QualityMinds has equipped them with valuable tools to improve human motion prediction for autonomous driving and other applications. Going forward, we plan to generalize our insights to other public datasets, further enhancing QualityMinds' motion prediction models for human-robot interaction and autonomous systems. This will ensure a safer and more efficient future for everyone. We are proud to have been part of this project and are excited to witness the impact of our work in the field of autonomous technology.
