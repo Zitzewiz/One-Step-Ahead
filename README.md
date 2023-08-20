@@ -1,8 +1,5 @@
 # One Step Ahead - Detecting unusual human motions for QualityMinds
 
-# Project Log
-========================
-
 ## Introduction
 The "One Step Ahead" project focuses on detecting unusual human motions to enhance the human motion prediction models used by QualityMinds. Accurate human motion prediction is essential for the development and deployment of autonomous systems, including autonomous vehicles and industrial robots. This repository contains the code and tools developed by our team during the collaboration with QualityMinds.
 
