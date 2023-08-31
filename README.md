@@ -55,7 +55,7 @@ Clone the repository to your local machine using the following command:
 
     bash
 
-    git clone git@gitlab.propulsion-home.ch:datascience/bootcamp/final-projects/ds-2023-05/qualityminds.git
+    git clone git@github.com:Zitzewiz/One-Step-Ahead.git
 
 Set up the necessary dependencies by referring to the "requirements.txt" file in the repository.
 
@@ -68,9 +68,6 @@ Use the provided Jupyter notebooks and Python scripts to run the outlier detecti
 
 **Refer to the "How to run" section of the main notebook to know more about the workflow, and which sections of the notebook to run in which order.**
 
-# License
-
-This project is released under the MIT License. Please refer to the "LICENSE" file for more information.
 
 # Acknowledgments
 
